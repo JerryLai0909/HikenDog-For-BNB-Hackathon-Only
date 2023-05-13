@@ -14,10 +14,14 @@ HikenDog consists of 4 parts :
 # HikenDog Deck
 (https://awsshans3.s3.ap-northeast-1.amazonaws.com/HikenDog+_Deck0513.pdf)
 
+# The Architecture Design
+<img src="https://awsshans3.s3.ap-northeast-1.amazonaws.com/HikenDog_aritech.png" alt="NFT" />
+
+
 # Demo Video
 <a href="{https://www.youtube.com/watch?v=_03IAn7zd0o}" title="Link Title"><img src="https://awsshans3.s3.ap-northeast-1.amazonaws.com/hikendot_video.png" alt="VIDEO" /></a>
 
-# The NFT design
+# The NFT Design
 <img src="https://awsshans3.s3.ap-northeast-1.amazonaws.com/HikenDog_NFT.png" alt="NFT" />
 
 # HikenDao Use Case and Scenario Descriptions
