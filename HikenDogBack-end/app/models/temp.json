@@ -1,0 +1,26 @@
+{
+  "name": "SHAN_PROOF_BASED_NFT",
+  "description": "just proof of xxx finish xxx mission",
+  "image_url": "aws_s3_xxxxx/zzz.jpg"
+}
+
+
+{
+    "name" :"SHAN_EQUITY_BASED_NFT",
+    "description": "for Third-party",
+    "image_url" :"aws_s3....",
+    "attributes": [
+        {
+            "attr_type": "PartnerName",
+            "value": "XXX PARTY"
+        },
+        {
+            "attr_type": "Fur",
+            "value": "Orange"
+        },
+        {
+            "attr_type": "ContractAddress",
+            "value": "0xTHISISACOOPRATIONCONTRACTADDRESS"
+        }
+    ],
+}

@@ -1,0 +1,18 @@
+{
+    "development2": {
+        "username": "jerryadmin",
+        "password": "guobiting*2023*",
+        "database": "shan_database",
+        "host": "awsforshan.czridkol8qd9.us-east-1.rds.amazonaws.com",
+        "timezone": "+08:00",
+        "dialect": "mysql"
+    },
+    "development": {
+        "username": "root",
+        "password": "guobiting*2023*",
+        "database": "dtw_base",
+        "host": "localhost",
+        "timezone": "+08:00",
+        "dialect": "mysql"
+    }
+}
