@@ -1,0 +1,126 @@
+{
+  "name": "Made by JerryLai,2023-05-22",
+  "headerTaglineOne": "🍄HikenDog",
+  "headerTaglineTwo": "Combine Virtual and Reality",
+  "headerTaglineThree": "Hiking & GameFi",
+  "headerTaglineFour": " Make it fun Then Making money",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "YouTube",
+      "link": "https://youtu.be/_03IAn7zd0o"
+    },
+    {
+      "id": "2",
+      "title": "Github",
+      "link": "https://github.com/JerryLai0909/HikenDog-For-BNB-Hackathon-Only"
+    },
+    {
+      "id": "3",
+      "title": "Recommendation",
+      "link": "https://flutterawesome.com/a-web3-application-that-combines-hiking-and-gamefi/"
+    },
+    {
+      "id": "4",
+      "title": "WhitePaper Deck",
+      "link": "https://awsshans3.s3.ap-northeast-1.amazonaws.com/HikenDog+_Deck0513.pdf"
+    },
+    {
+      "id": "5",
+      "title": "Tokenomics",
+      "link": "https://awsshans3.s3.ap-northeast-1.amazonaws.com/HikenDog+_Deck0513.pdf"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Welcome",
+      "description": "It's a Game",
+      "imageSrc": "https://awsshans3.s3.ap-northeast-1.amazonaws.com/hikendog1.PNG",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "2",
+      "title": "NFT",
+      "description": "Yield-based income",
+      "imageSrc": "https://awsshans3.s3.ap-northeast-1.amazonaws.com/hikendog2.PNG",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "Project Three",
+      "description": "Design",
+      "imageSrc": "https://awsshans3.s3.ap-northeast-1.amazonaws.com/hikendog3.PNG",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "Project Four",
+      "description": "Marketing",
+      "imageSrc": "https://awsshans3.s3.ap-northeast-1.amazonaws.com/hikendog4.PNG",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "5",
+      "title": "Project Five",
+      "description": "Development",
+      "imageSrc": "https://awsshans3.s3.ap-northeast-1.amazonaws.com/hikendog5.PNG",
+      "url": "http://chetanverma.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Proof-based NFT",
+      "description": "Used to demonstrate the challenges completed and achievements earned by players."
+    },
+    {
+      "id": "2",
+      "title": "Equity-based NFT",
+      "description": "Used to signify that the owner possesses certain special privileges or entitlements."
+    },
+    {
+      "id": "3",
+      "title": "Yield-based NFT",
+      "description": "Allowing the owner to receive token rewards based on the attributes of the NFT."
+    },
+    {
+      "id": "4",
+      "title": "Fragment-based NFT",
+      "description": "Similar to crafting materials for in-game equipment, are used to synthesize various types of NFTs mentioned above."
+    }
+  ],
+  "aboutpara": "Hikendog is a web3 application that combines hiking and GameFi, aiming to provide users with both the joy of hiking and the potential for earning rewards. By integrating gaming elements into the hiking experience, Hikendog offers users an immersive and rewarding journey. HikenDog was born to change the current landscape where many Move2Earn projects lack entertainment value and have high barriers for web2 users to join. We have incorporated the exploratory nature of Pokémon Go and the entertainment value of the Doge ecosystem. Additionally, we have integrated numerous gaming-oriented NFTs. Our concept is centered around 'Hiking to earn,' where the key emphasis lies in the idea of hiking for fun and subsequently earning rewards.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
