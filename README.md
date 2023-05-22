@@ -19,6 +19,7 @@ HikenDog consists of 4 parts :
 
 
 # Demo Video
+# https://www.youtube.com/watch?v=_03IAn7zd0o
 <a href="{https://www.youtube.com/watch?v=_03IAn7zd0o}" title="Link Title"><img src="https://awsshans3.s3.ap-northeast-1.amazonaws.com/hikendot_video.png" alt="VIDEO" /></a>
 
 # The NFT Design
